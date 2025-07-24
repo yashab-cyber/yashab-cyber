@@ -4,6 +4,38 @@
 
 </div>
 
+## 🏴‍☠️ ZEHRASEC - CYBER WARFARE OPERATIONS
+
+<div align="center">
+
+```javascript
+// zehrasec_operations.js
+const operationsManifest = {
+    "🛡️ PENETRATION_TESTING": "Advanced VAPT & Red Team Ops",
+    "🔧 CYBER_WEAPON_FORGE": "Custom Security Software Dev",
+    "🎓 OPERATIVE_TRAINING": "Elite Cyber Warfare Academy",
+    "📋 SECURITY_AUDITS": "Digital Fortress Assessment",
+    "🤖 AI_NEURAL_WARFARE": "Machine Learning Cyber Defense"
+};
+
+console.log("=== ZEHRASEC OPERATIONS MANIFEST ===");
+Object.entries(operationsManifest).forEach(([operation, description]) => {
+    console.log(`  ◉ ${operation.padEnd(25)} │ ${description}`);
+});
+```
+
+### 🌐 SECURE COMMUNICATION CHANNELS
+
+[![🏴‍☠️ GITHUB_HQ](https://img.shields.io/badge/🏴‍☠️_GITHUB_HQ-Cyber_Operations-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/yashab-cyber)
+[![📧 EMAIL_WARFARE](https://img.shields.io/badge/📧_EMAIL_WARFARE-Encrypted_Comms-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:yashabalam707@gmail.com)
+[![💼 LINKEDIN_INTEL](https://img.shields.io/badge/💼_LINKEDIN_INTEL-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/yashab-alam)
+[![🐦 TWITTER_FEED](https://img.shields.io/badge/🐦_TWITTER_FEED-Live_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/yashabalam707)
+[![📘 FACEBOOK_BASE](https://img.shields.io/badge/📘_FACEBOOK_BASE-Social_Intel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/profile.php?id=61575580721849)
+[![📱 INSTAGRAM_OPS](https://img.shields.io/badge/📱_INSTAGRAM_OPS-Visual_Intel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/yashabalam707)
+[![🔴 EMERGENCY_COMM](https://img.shields.io/badge/🔴_EMERGENCY_COMM-ZehraSec_Official-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/profile.php?id=61575580721849)
+
+</div>
+
 <div align="center">
 
 ```
@@ -36,46 +68,61 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│  [CLASSIFIED] - ELITE CYBER OPERATIVE DOSSIER - [ZEHRASEC FOUNDATION]         │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  ◉ CODENAME: YASHAB_ALAM                                                       │
-│  ◉ CLASSIFICATION: CYBER_WARFARE_SPECIALIST                                    │
-│  ◉ ORGANIZATION: ZEHRASEC [TOP_SECRET]                                         │
-│  ◉ THREAT_ASSESSMENT: FRIENDLY_FORCE                                           │
-│  ◉ EXPERTISE: [AI_RESEARCH][ETHICAL_HACKING][BLOCKCHAIN][MERN_STACK]          │
-└─────────────────────────────────────────────────────────────────────────────────┘
+```bash
+# root@zehrasec:~/classified
+$ cat operative_dossier.sh
+
+#!/bin/bash
+# [CLASSIFIED] ELITE CYBER OPERATIVE PROFILE
+
+CODENAME="YASHAB_ALAM"
+CLASSIFICATION="CYBER_WARFARE_SPECIALIST"
+ORGANIZATION="ZEHRASEC [TOP_SECRET]"
+THREAT_ASSESSMENT="FRIENDLY_FORCE"
+EXPERTISE=("[AI_RESEARCH]" "[ETHICAL_HACKING]" "[BLOCKCHAIN]" "[MERN]")
+
+echo "Operative $CODENAME initialized..."
+echo "Security clearance: $CLASSIFICATION"
+echo "Status: ACTIVE - Ready for cyber operations"
 ```
 
 </div>
 
 ## � ABOUT THE OPERATIVE
 
-```
-┌─[ YASHAB@ZEHRASEC ]─[ ~/CLASSIFIED/PROFILE ]
-└─$ cat operative_profile.txt
+```bash
+# yashab@zehrasec:~/classified/profile
+$ ./load_operative_profile.sh
 
-[LOADING NEURAL PROFILE...]
-████████████████████████████████████████████████████████████ 100%
+#!/bin/bash
+# Loading neural profile data...
 
-DESIGNATION: Elite Cybersecurity Researcher & AI Specialist
-STATUS: ACTIVE - READY FOR CYBER WARFARE OPERATIONS
-ORGANIZATION: ZehraSec Foundation - Cyber Defense Division
+echo "████████████████████████████████████████████████████ 100%"
+
+DESIGNATION="Elite Cybersecurity Researcher & AI Specialist"
+STATUS="ACTIVE - READY FOR CYBER WARFARE OPERATIONS"
+ORGANIZATION="ZehraSec Foundation - Cyber Defense Division"
+
+echo "Operative profile loaded successfully..."
 ```
 
 I am a **Digital Guardian** operating in the shadows of cyberspace, wielding advanced AI algorithms and penetration testing arsenals. As **Founder & CEO of ZehraSec**, I command elite cyber operations protecting global digital infrastructure.
 
-```
-┌─[ OPERATIONAL CAPABILITIES ]─────────────────────────────────────┐
-│                                                                   │
-│  ▸ 🎯 PENETRATION_TESTING    │  Advanced ethical hacking ops     │
-│  ▸ 🤖 AI_NEURAL_NETWORKS     │  Machine learning cyber defense   │  
-│  ▸ 🌐 FULL_STACK_WARFARE     │  MERN stack digital weaponization │
-│  ▸ ⛓️  BLOCKCHAIN_PROTOCOLS   │  Decentralized security systems   │
-│  ▸ 🔒 THREAT_INTELLIGENCE    │  Real-time vulnerability analysis │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```python
+# operational_capabilities.py
+class CyberOperative:
+    def __init__(self):
+        self.capabilities = {
+            "🎯 PENETRATION_TESTING": "Advanced ethical hacking ops",
+            "🤖 AI_NEURAL_NETWORKS": "Machine learning cyber defense",
+            "🌐 FULL_STACK_WARFARE": "MERN stack digital weaponization",
+            "⛓️ BLOCKCHAIN_PROTOCOLS": "Decentralized security systems",
+            "🔒 THREAT_INTELLIGENCE": "Real-time vulnerability analysis"
+        }
+    
+    def display_capabilities(self):
+        for skill, description in self.capabilities.items():
+            print(f"  ▸ {skill:<25} │ {description}")
 ```
 
 ## 🏴‍☠️ ZEHRASEC - CYBER WARFARE COMMAND CENTER
@@ -115,17 +162,21 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 <div align="center">
 
-```
-┌─[ LOADING CYBER ARSENAL ]────────────────────────────────────────┐
-│                                                                   │
-│  ████████████████████████████████████████████████████ 100%      │
-│                                                                   │
-│  [INITIALIZING NEURAL NETWORKS...]                               │
-│  [LOADING PENETRATION TOOLS...]                                  │
-│  [ACTIVATING BLOCKCHAIN PROTOCOLS...]                            │
-│  [CYBER WEAPONS READY FOR DEPLOYMENT]                            │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```bash
+# root@cyber-arsenal:~/weapons
+$ ./load_cyber_arsenal.sh
+
+#!/bin/bash
+# Initializing digital weapons systems...
+
+echo "████████████████████████████████████████████████████ 100%"
+
+echo "[INITIALIZING NEURAL NETWORKS...]"
+echo "[LOADING PENETRATION TOOLS...]"
+echo "[ACTIVATING BLOCKCHAIN PROTOCOLS...]"
+echo "[CYBER WEAPONS READY FOR DEPLOYMENT]"
+
+echo "All systems operational. Ready for cyber warfare."
 ```
 
 ### � PROGRAMMING WARFARE LANGUAGES
@@ -165,76 +216,161 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 ## 🏴‍☠️ CLASSIFIED OPERATIONS & CYBER WEAPONS
 
-```
-┌─[ CLASSIFIED PROJECT DOSSIER ]───────────────────────────────────┐
-│                                                                   │
-│  ⚠️  AUTHORIZATION LEVEL: TOP SECRET - EYES ONLY                 │
-│  📡 NEURAL NETWORK STATUS: ACTIVE                                │
-│  🔴 THREAT LEVEL: MAXIMUM SECURITY                               │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```yaml
+# classified_project_dossier.yml
+metadata:
+  authorization_level: "TOP SECRET - EYES ONLY"
+  neural_network_status: "ACTIVE"
+  threat_level: "MAXIMUM SECURITY"
+  clearance_required: true
+  
+operations:
+  - name: "PROJECT_NMAP_AI"
+    classification: "CLASSIFIED"
+    status: "OPERATIONAL"
+  - name: "IDENTITY_FORGE_PROTOCOL"
+    classification: "CLASSIFIED"
+    status: "ACTIVE"
 ```
 
 ### 🤖 [NMAP-AI](https://github.com/yashab-cyber/nmap-ai) - NEURAL NETWORK RECONNAISSANCE
-```
-[CLASSIFIED] AI-Powered Network Scanning & Cyber Warfare Automation
-├── 🧠 Intelligent script generation using ML algorithms
-├── 🔍 Automated vulnerability detection with AI neural networks  
-├── 🖥️ Matrix-style GUI with real-time cyber visualization
-└── ⚡ Multi-threaded scanning for maximum digital penetration
+```json
+{
+  "project": "NMAP-AI",
+  "classification": "AI-Powered Network Scanning & Cyber Warfare Automation",
+  "features": [
+    "🧠 Intelligent script generation using ML algorithms",
+    "🔍 Automated vulnerability detection with AI neural networks",
+    "🖥️ Matrix-style GUI with real-time cyber visualization",
+    "⚡ Multi-threaded scanning for maximum digital penetration"
+  ],
+  "status": "OPERATIONAL"
+}
 ```
 
 ### 📄 [RESUME-AI](https://github.com/yashab-cyber/resume-ai) - IDENTITY FORGE PROTOCOL
-```
-[CLASSIFIED] AI-Powered Identity Documentation System
-├── 🤖 AI-enhanced content analysis and neural recommendations
-├── 📄 PDF parsing and data extraction using machine learning
-├── 🔗 Secure shareable identity verification links
-└── 📱 Responsive stealth interface with real-time preview
+```go
+// identity_forge.go
+package main
+
+type IdentityForge struct {
+    Classification string   `json:"classification"`
+    Features      []string `json:"features"`
+    Status        string   `json:"status"`
+}
+
+func main() {
+    forge := IdentityForge{
+        Classification: "AI-Powered Identity Documentation System",
+        Features: []string{
+            "🤖 AI-enhanced content analysis and neural recommendations",
+            "📄 PDF parsing and data extraction using machine learning",
+            "🔗 Secure shareable identity verification links",
+            "📱 Responsive stealth interface with real-time preview",
+        },
+        Status: "CLASSIFIED",
+    }
+    fmt.Printf("Identity Forge Protocol: %+v\n", forge)
+}
 ```
 
 ### 🛡️ [IECA PLATFORM](https://ieca.zehrasec.com) - INDIAN CYBER ARMY HQ
-```
-[TOP SECRET] Elite Cybersecurity Organization Command Center
-├── 🎨 Cyberpunk-themed advanced warfare interface
-├── 💬 Encrypted live communication protocols  
-├── 🔐 Military-grade security features and authentication
-└── 📧 Automated secure communication systems
+```sql
+-- indian_cyber_army_hq.sql
+CREATE TABLE cyber_army_operations (
+    id INT PRIMARY KEY,
+    classification VARCHAR(50) DEFAULT 'TOP SECRET',
+    operation_type VARCHAR(100),
+    description TEXT,
+    status VARCHAR(20) DEFAULT 'ACTIVE'
+);
+
+INSERT INTO cyber_army_operations VALUES 
+(1, 'TOP SECRET', '🎨 Cyberpunk Interface', 'Advanced warfare interface design', 'OPERATIONAL'),
+(2, 'TOP SECRET', '💬 Encrypted Communications', 'Live communication protocols', 'ACTIVE'),
+(3, 'TOP SECRET', '🔐 Military Security', 'Grade security features and authentication', 'DEPLOYED'),
+(4, 'TOP SECRET', '📧 Secure Communications', 'Automated communication systems', 'RUNNING');
+
+-- Elite Cybersecurity Organization Command Center
+SELECT * FROM cyber_army_operations WHERE classification = 'TOP SECRET';
 ```
 
 ### 🤖 [ZEHRASEC-AI](https://github.com/yashab-cyber/zehrasec-ai-client) - CLIENT ACQUISITION WARFARE
-```
-[CLASSIFIED] Complete AI-Powered Cyber Intelligence Platform
-├── 🤖 OpenAI-integrated neural intelligence chatbot
-├── 📊 Real-time battlefield analytics dashboard
-├── 📧 Automated psychological warfare email campaigns  
-└── 🔄 WebSocket-based encrypted live communication
+```rust
+// client_acquisition_warfare.rs
+use serde::{Deserialize, Serialize};
+
+#[derive(Serialize, Deserialize)]
+struct CyberIntelligence {
+    classification: String,
+    components: Vec<String>,
+    threat_level: String,
+}
+
+fn main() {
+    let platform = CyberIntelligence {
+        classification: "Complete AI-Powered Cyber Intelligence Platform".to_string(),
+        components: vec![
+            "🤖 OpenAI-integrated neural intelligence chatbot".to_string(),
+            "📊 Real-time battlefield analytics dashboard".to_string(),
+            "📧 Automated psychological warfare email campaigns".to_string(),
+            "🔄 WebSocket-based encrypted live communication".to_string(),
+        ],
+        threat_level: "CLASSIFIED".to_string(),
+    };
+    
+    println!("Client Acquisition Warfare System: {:#?}", platform);
+}
 ```
 
 ### 🌐 [ZEHRASEC MAINFRAME](https://www.zehrasec.com) - CYBER COMMAND CENTER
-```
-[RESTRICTED ACCESS] Elite Cybersecurity Operations Platform
-├── 💻 Matrix-style background neural animations
-├── ⚡ Advanced glitch warfare effects and terminal simulation
-├── 🎯 Interactive particle-based targeting system
-└── 📱 Progressive cyber warfare app capabilities
+```cpp
+// cyber_command_center.cpp
+#include <iostream>
+#include <vector>
+#include <string>
+#include <map>
+
+class CyberCommandCenter {
+private:
+    std::string classification = "RESTRICTED ACCESS";
+    std::string description = "Elite Cybersecurity Operations Platform";
+    std::map<std::string, std::string> capabilities;
+
+public:
+    CyberCommandCenter() {
+        capabilities["💻 Matrix Neural Animations"] = "Background neural animations";
+        capabilities["⚡ Glitch Warfare Effects"] = "Advanced warfare effects and terminal simulation";
+        capabilities["🎯 Particle Targeting"] = "Interactive particle-based targeting system";
+        capabilities["📱 Progressive Warfare"] = "Progressive cyber warfare app capabilities";
+    }
+    
+    void displayStatus() {
+        std::cout << "[" << classification << "] " << description << std::endl;
+        for (const auto& [feature, desc] : capabilities) {
+            std::cout << "├── " << feature << " │ " << desc << std::endl;
+        }
+    }
+};
 ```
 
 ## 📊 NEURAL NETWORK ANALYTICS & CYBER STATISTICS
 
 <div align="center">
 
-```
-┌─[ ANALYZING DIGITAL FOOTPRINT ]──────────────────────────────────┐
-│                                                                   │
-│  🔍 Scanning neural pathways...        ████████████████ 100%     │
-│  🧠 Processing AI algorithms...        ████████████████ 100%     │  
-│  💀 Loading cyber statistics...        ████████████████ 100%     │
-│  ⚡ Initializing hack matrix...         ████████████████ 100%     │
-│                                                                   │
-│  [STATUS]: ALL SYSTEMS OPERATIONAL                               │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```bash
+# root@analytics:~/neural-matrix
+$ ./analyze_digital_footprint.sh
+
+#!/bin/bash
+# Analyzing digital footprint and cyber statistics...
+
+echo "🔍 Scanning neural pathways...        ████████████████ 100%"
+echo "🧠 Processing AI algorithms...        ████████████████ 100%"
+echo "💀 Loading cyber statistics...        ████████████████ 100%"
+echo "⚡ Initializing hack matrix...         ████████████████ 100%"
+
+echo "[STATUS]: ALL SYSTEMS OPERATIONAL"
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=yashab-cyber&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41" alt="GitHub Stats" height="165"/>
@@ -250,14 +386,23 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 <div align="center">
 
-```
-┌─[ CYBER WARFARE STATISTICS ]─────────────────────────────────────┐
-│                                                                   │
-│  💀 REPOSITORIES DEPLOYED    │  🔴 NEURAL COMMITS EXECUTED       │
-│  🧠 AI ALGORITHMS ACTIVE     │  ⚡ CYBER OPERATIONS RUNNING       │
-│  🛡️ SECURITY PROTOCOLS LIVE  │  🌐 DIGITAL TERRITORIES SECURED   │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```python
+# cyber_warfare_statistics.py
+class CyberWarfareStats:
+    def __init__(self):
+        self.stats = {
+            "💀 REPOSITORIES DEPLOYED": "Active cyber projects",
+            "🔴 NEURAL COMMITS EXECUTED": "AI-powered code deployments", 
+            "🧠 AI ALGORITHMS ACTIVE": "Machine learning operations",
+            "⚡ CYBER OPERATIONS RUNNING": "Real-time security processes",
+            "🛡️ SECURITY PROTOCOLS LIVE": "Active defense mechanisms",
+            "🌐 DIGITAL TERRITORIES SECURED": "Protected network zones"
+        }
+    
+    def display_statistics(self):
+        print("=== CYBER WARFARE STATISTICS ===")
+        for metric, description in self.stats.items():
+            print(f"  {metric:<30} │ {description}")
 ```
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashab-cyber&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&custom_title=NEURAL%20NETWORK%20ACTIVITY%20MATRIX" alt="Contribution Graph"/>
@@ -266,14 +411,25 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 ## 🏆 CLASSIFIED ACHIEVEMENTS & CYBER CERTIFICATIONS
 
-```
-┌─[ SECURITY CLEARANCE DOSSIER ]───────────────────────────────────┐
-│                                                                   │
-│  🏅 OPERATIONAL STATUS: ELITE CYBER OPERATIVE                    │
-│  🎯 CLASSIFICATION: TOP SECRET - CYBER WARFARE SPECIALIST        │
-│  ⚡ AUTHORIZATION: UNLIMITED DIGITAL ACCESS                       │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```java
+// SecurityClearanceDossier.java
+public class SecurityClearanceDossier {
+    private String operationalStatus = "ELITE CYBER OPERATIVE";
+    private String classification = "TOP SECRET - CYBER WARFARE SPECIALIST";
+    private String authorization = "UNLIMITED DIGITAL ACCESS";
+    
+    public void displayClearance() {
+        System.out.println("=== SECURITY CLEARANCE DOSSIER ===");
+        System.out.println("🏅 OPERATIONAL STATUS: " + operationalStatus);
+        System.out.println("🎯 CLASSIFICATION: " + classification);
+        System.out.println("⚡ AUTHORIZATION: " + authorization);
+    }
+    
+    public static void main(String[] args) {
+        SecurityClearanceDossier dossier = new SecurityClearanceDossier();
+        dossier.displayClearance();
+    }
+}
 ```
 
 <div align="center">
@@ -286,40 +442,92 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 </div>
 
-```
-┌─[ ELITE CERTIFICATIONS ACHIEVED ]────────────────────────────────┐
-│                                                                   │
-│  ▸ 🔒 CERTIFIED ETHICAL HACKER (CEH)                            │
-│      └─ Advanced penetration testing & red team operations       │
-│                                                                   │
-│  ▸ 🛡️ CYBERSECURITY WARFARE SPECIALIST                          │  
-│      └─ Network security, forensics & threat intelligence        │
-│                                                                   │
-│  ▸ 🤖 AI/ML CYBER WARFARE CERTIFICATION                         │
-│      └─ Machine learning for cybersecurity & neural networks     │
-│                                                                   │
-│  ▸ ⛓️ BLOCKCHAIN SECURITY PROTOCOL EXPERT                       │
-│      └─ Smart contract security & decentralized systems          │
-│                                                                   │
-│  ▸ 🏢 FOUNDER & CEO - ZEHRASEC CYBER COMMAND                    │
-│      └─ Elite cybersecurity company & digital warfare division   │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```typescript
+// elite_certifications.ts
+interface Certification {
+    name: string;
+    level: string;
+    description: string;
+    verified: boolean;
+}
+
+class EliteCertifications {
+    private certifications: Certification[] = [
+        {
+            name: "🔒 CERTIFIED ETHICAL HACKER (CEH)",
+            level: "EXPERT",
+            description: "Advanced penetration testing & red team operations",
+            verified: true
+        },
+        {
+            name: "🛡️ CYBERSECURITY WARFARE SPECIALIST",
+            level: "EXPERT", 
+            description: "Network security, forensics & threat intelligence",
+            verified: true
+        },
+        {
+            name: "🤖 AI/ML CYBER WARFARE CERTIFICATION",
+            level: "CERTIFIED",
+            description: "Machine learning for cybersecurity & neural networks",
+            verified: true
+        },
+        {
+            name: "⛓️ BLOCKCHAIN SECURITY PROTOCOL EXPERT",
+            level: "EXPERT",
+            description: "Smart contract security & decentralized systems",
+            verified: true
+        },
+        {
+            name: "🏢 FOUNDER & CEO - ZEHRASEC CYBER COMMAND",
+            level: "EXECUTIVE",
+            description: "Elite cybersecurity company & digital warfare division",
+            verified: true
+        }
+    ];
+
+    public displayCertifications(): void {
+        console.log("=== ELITE CERTIFICATIONS ACHIEVED ===");
+        this.certifications.forEach(cert => {
+            console.log(`  ▸ ${cert.name}`);
+            console.log(`      └─ ${cert.description}`);
+        });
+    }
+}
 ```
 
 ## 💰 SUPPORT CYBER WARFARE OPERATIONS
 
 <div align="center">
 
-```
-┌─[ FUNDING CYBER OPERATIONS ]─────────────────────────────────────┐
-│                                                                   │
-│  🚨 ALERT: Open Source Cybersecurity Research Requires Funding   │
-│  💀 Your support enables elite cyber warfare development         │
-│  🤖 AI algorithms need resources for neural network training     │
-│  🛡️ Digital defense systems require continuous evolution         │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```ruby
+# funding_cyber_operations.rb
+class CyberOperationsFunding
+  def initialize
+    @alerts = [
+      "🚨 ALERT: Open Source Cybersecurity Research Requires Funding",
+      "💀 Your support enables elite cyber warfare development",
+      "🤖 AI algorithms need resources for neural network training",
+      "🛡️ Digital defense systems require continuous evolution"
+    ]
+  end
+  
+  def display_funding_alert
+    puts "=== FUNDING CYBER OPERATIONS ==="
+    @alerts.each { |alert| puts "  #{alert}" }
+    puts "\n[STATUS]: Financial support required for continued operations"
+  end
+  
+  def deploy_financial_support
+    puts "🏴‍☠️ DEPLOY FINANCIAL SUPPORT"
+    puts "  ├── PayPal Warfare: Deploy funds via PayPal"
+    puts "  └── GitHub Sponsor: Fund operations via GitHub"
+  end
+end
+
+# Initialize funding system
+funding = CyberOperationsFunding.new
+funding.display_funding_alert
+funding.deploy_financial_support
 ```
 
 ### 🏴‍☠️ Deploy Financial Support
@@ -329,47 +537,86 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 ### 🪙 CRYPTOCURRENCY WARFARE FUNDING
 
-```
-┌─[ CRYPTO WALLET ARSENAL ]────────────────────────────────────────┐
-│                                                                   │
-│  ⚡ SOLANA (SOL) - PRIMARY OPERATIONS WALLET                     │
-│     5pEwP9JN8tRCXL5Vc9gQrxRyHHyn7J6P2DCC8cSQKDKT                │
-│                                                                   │
-│  ₿  BITCOIN (BTC) - SECONDARY FUNDING PROTOCOL                   │
-│     bc1qmkptg6wqn9sjlx6wf7dk0px0yq4ynr4ukj2x8c                   │
-│                                                                   │
-│  📧 OTHER CRYPTO ASSETS: yashabalam707@gmail.com                 │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```json
+{
+  "crypto_wallet_arsenal": {
+    "primary_wallet": {
+      "currency": "SOLANA (SOL)",
+      "status": "PRIMARY OPERATIONS WALLET",
+      "address": "5pEwP9JN8tRCXL5Vc9gQrxRyHHyn7J6P2DCC8cSQKDKT",
+      "active": true
+    },
+    "secondary_wallet": {
+      "currency": "BITCOIN (BTC)", 
+      "status": "SECONDARY FUNDING PROTOCOL",
+      "address": "bc1qmkptg6wqn9sjlx6wf7dk0px0yq4ynr4ukj2x8c",
+      "active": true
+    },
+    "contact": {
+      "email": "yashabalam707@gmail.com",
+      "note": "Contact for other crypto assets"
+    }
+  }
+}
 ```
 
 </div>
 
-```
-┌─[ FUNDING ALLOCATION MATRIX ]────────────────────────────────────┐
-│                                                                   │
-│  🚀 Advanced AI Cyber Research        │ 35% │ ████████████████   │
-│  🛡️ Open-source Security Tools        │ 25% │ ████████████       │
-│  💻 Neural Network Infrastructure      │ 20% │ ██████████         │
-│  📚 Cybersecurity Education           │ 10% │ █████              │
-│  🌍 Global Security Community         │ 5%  │ ██                 │
-│  🔍 Vulnerability Research             │ 5%  │ ██                 │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```php
+<?php
+// funding_allocation_matrix.php
+class FundingAllocationMatrix {
+    private $allocations = [
+        '🚀 Advanced AI Cyber Research' => ['percentage' => 35, 'bars' => '████████████████'],
+        '🛡️ Open-source Security Tools' => ['percentage' => 25, 'bars' => '████████████'],
+        '💻 Neural Network Infrastructure' => ['percentage' => 20, 'bars' => '██████████'],
+        '📚 Cybersecurity Education' => ['percentage' => 10, 'bars' => '█████'],
+        '🌍 Global Security Community' => ['percentage' => 5, 'bars' => '██'],
+        '🔍 Vulnerability Research' => ['percentage' => 5, 'bars' => '██']
+    ];
+    
+    public function displayMatrix() {
+        echo "=== FUNDING ALLOCATION MATRIX ===\n";
+        foreach ($this->allocations as $category => $data) {
+            printf("  %-35s │ %2d%% │ %s\n", 
+                   $category, 
+                   $data['percentage'], 
+                   $data['bars']);
+        }
+    }
+}
+
+$matrix = new FundingAllocationMatrix();
+$matrix->displayMatrix();
+?>
 ```
 
 ## 🌐 ESTABLISH SECURE COMMUNICATION CHANNELS
 
 <div align="center">
 
-```
-┌─[ SECURE COMMUNICATION PROTOCOLS ]───────────────────────────────┐
-│                                                                   │
-│  🔴 ALERT: Establishing encrypted communication channels...       │
-│  📡 All channels monitored for operational security              │
-│  ⚡ Real-time threat intelligence sharing enabled                │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```perl
+#!/usr/bin/perl
+# secure_communication_protocols.pl
+use strict;
+use warnings;
+
+my @communication_protocols = (
+    "🔴 ALERT: Establishing encrypted communication channels...",
+    "📡 All channels monitored for operational security",
+    "⚡ Real-time threat intelligence sharing enabled"
+);
+
+sub establish_secure_channels {
+    print "=== SECURE COMMUNICATION PROTOCOLS ===\n";
+    foreach my $protocol (@communication_protocols) {
+        print "  $protocol\n";
+    }
+    print "\n[STATUS]: Secure communication channels established\n";
+}
+
+# Initialize secure communication system
+establish_secure_channels();
 ```
 
 [![GitHub](https://img.shields.io/badge/💀_GITHUB_MAINFRAME-NEURAL_REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/yashab-cyber)
@@ -383,14 +630,27 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 ## 🎯 CURRENT CYBER WARFARE OPERATIONS
 
-```
-┌─[ ACTIVE MISSION BRIEFING ]──────────────────────────────────────┐
-│                                                                   │
-│  🔴 OPERATION STATUS: ACTIVE CYBER WARFARE INITIATIVES           │
-│  ⚡ NEURAL NETWORKS: CONTINUOUSLY LEARNING & ADAPTING            │
-│  🛡️ DIGITAL FORTRESS: REAL-TIME THREAT MONITORING               │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```powershell
+# active_mission_briefing.ps1
+class ActiveMissionBriefing {
+    [string[]]$MissionStatus = @(
+        "🔴 OPERATION STATUS: ACTIVE CYBER WARFARE INITIATIVES",
+        "⚡ NEURAL NETWORKS: CONTINUOUSLY LEARNING & ADAPTING", 
+        "🛡️ DIGITAL FORTRESS: REAL-TIME THREAT MONITORING"
+    )
+    
+    [void]DisplayBriefing() {
+        Write-Host "=== ACTIVE MISSION BRIEFING ===" -ForegroundColor Green
+        foreach ($status in $this.MissionStatus) {
+            Write-Host "  $status" -ForegroundColor Cyan
+        }
+        Write-Host "`n[STATUS]: All mission parameters operational" -ForegroundColor Yellow
+    }
+}
+
+# Initialize mission briefing
+$briefing = [ActiveMissionBriefing]::new()
+$briefing.DisplayBriefing()
 ```
 
 <div align="center">
@@ -403,25 +663,45 @@ I am a **Digital Guardian** operating in the shadows of cyberspace, wielding adv
 
 </div>
 
-```
-┌─[ MISSION OBJECTIVES ]───────────────────────────────────────────┐
-│                                                                   │
-│  ▸ 🤖 AI-Powered Cybersecurity Research                         │
-│      └─ Developing next-generation security automation           │
-│                                                                   │
-│  ▸ 🔒 Advanced Penetration Testing Tools                        │
-│      └─ Creating intelligent vulnerability scanners              │
-│                                                                   │
-│  ▸ 🌐 Open Source Security Contributions                        │
-│      └─ Building tools for the global security community        │
-│                                                                   │
-│  ▸ 📚 Educational Content & Training                            │
-│      └─ Sharing cybersecurity knowledge and best practices       │
-│                                                                   │
-│  ▸ ⛓️ Blockchain Security Research                              │
-│      └─ Researching smart contract vulnerabilities              │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+```kotlin
+// mission_objectives.kt
+data class MissionObjective(
+    val category: String,
+    val description: String
+)
+
+class CyberWarfareOperations {
+    private val objectives = listOf(
+        MissionObjective(
+            "🤖 AI-Powered Cybersecurity Research",
+            "Developing next-generation security automation"
+        ),
+        MissionObjective(
+            "🔒 Advanced Penetration Testing Tools", 
+            "Creating intelligent vulnerability scanners"
+        ),
+        MissionObjective(
+            "🌐 Open Source Security Contributions",
+            "Building tools for the global security community"
+        ),
+        MissionObjective(
+            "📚 Educational Content & Training",
+            "Sharing cybersecurity knowledge and best practices"
+        ),
+        MissionObjective(
+            "⛓️ Blockchain Security Research",
+            "Researching smart contract vulnerabilities"
+        )
+    )
+    
+    fun displayObjectives() {
+        println("=== MISSION OBJECTIVES ===")
+        objectives.forEach { objective ->
+            println("  ▸ ${objective.category}")
+            println("      └─ ${objective.description}")
+        }
+    }
+}
 ```
 
 ---
