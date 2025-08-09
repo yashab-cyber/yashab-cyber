@@ -440,7 +440,8 @@ Statistical analysis, data visualization, predictive modeling
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashab-cyber&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashab-cyber&theme=radical)
+<!-- Updated streak stats URL (Heroku free tier deprecated) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=yashab-cyber&theme=radical&hide_border=true)
 
 </div>
 
