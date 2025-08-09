@@ -447,8 +447,10 @@ Statistical analysis, data visualization, predictive modeling
 	<source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yashab-cyber&theme=default&hide_border=true&card_width=500&v=1">
 	<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=yashab-cyber&theme=radical&hide_border=true&card_width=500&v=1" />
 </picture>
-<sub>If the live streak image fails to load, a static cached version is below:</sub><br>
+<sub>If the live streak image fails to load, use the cached version (uncomment below).</sub>
+<!-- Fallback (commented out to avoid duplicate display)
 <img alt="Static GitHub Streak (Cached)" src="assets/streak.svg" width="500" />
+-->
 
 </div>
 
