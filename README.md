@@ -11,7 +11,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Portfolio-yashabalam.me-green?style=flat-square)](https://yashabalam.me)
 [![ZehraSec](https://img.shields.io/badge/🏢_Company-zehrasec.com-blue?style=flat-square)](https://www.zehrasec.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-yashabalam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yashabalam)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-yashabalam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yashab-alam)
 [![GitHub](https://img.shields.io/badge/📊_Followers-Follow_Me-181717?style=flat-square&logo=github)](https://github.com/yashab-cyber)
 
 </div>
@@ -609,7 +609,7 @@ Statistical analysis, data visualization, predictive modeling
 <div align="center">
 
 ### 👨‍💻 Personal Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashabalam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashab-alam)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashabalam707@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yashabalam.me)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashab-cyber)
