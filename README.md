@@ -5,14 +5,9 @@
 <div align="center">
   
 ```ascii
-  ╔═══╗─────────╔╗────────────────╔═══╗╔══╗
-  ║╔═╗║─────────║║────────────────║╔═╗║╚╣╠╝
-  ║║─╚╬╗─╔╦══╦══╣║╔══╦══╦══╦╗─╔╦═╝║─║║─║║
-  ║║─╔╣║─║║╔╗║║═╣║║══╣╔═╣║═╣║─║║╔╗║─║║─║║
-  ║╚═╝║╚═╝║╚╝║║═╣╚╣══║╚═╣║═╣╚═╝║║║║╚═╝╠╗║╠╗
-  ╚═══╩═╗╔╩══╩══╩═╩══╩══╩══╩═╗╔╩╝╚╩═══╝╚═╝╚╝
-  ─────╔═╝║──────────────────╔═╝║
-  ─────╚══╝──────────────────╚══╝
+╦ ╦╔═╗╔═╗╦ ╦╔═╗╔╗    ╔═╗╦ ╦╔╗ ╔═╗╦═╗
+╚╦╝╠═╣╚═╗╠═╣╠═╣╠╩╗───║  ╚╦╝╠╩╗║╣ ╠╦╝
+ ╩ ╩ ╩╚═╝╩ ╩╩ ╩╚═╝   ╚═╝ ╩ ╚═╝╚═╝╩╚═
 ```
 
 </div>
@@ -43,6 +38,26 @@ I'm a cybersecurity expert, AI researcher, and entrepreneur passionate about rev
 - 🧠 Artificial Intelligence and Machine Learning for security
 - 🚀 Entrepreneurship and tech leadership
 - 🔬 Security research and vulnerability analysis
+
+---
+
+## 📰 In The News
+
+<div align="center">
+
+HackGPT has been featured in multiple cybersecurity and technology publications for its innovative approach to AI-powered penetration testing.
+
+[![News](https://img.shields.io/badge/Featured_In-Tech_News-ff6b6b?style=for-the-badge&logo=newspaper&logoColor=white)](https://github.com/yashab-cyber/HackGpt)
+[![Recognition](https://img.shields.io/badge/Industry-Recognition-00ff00?style=for-the-badge&logo=award&logoColor=white)](https://github.com/yashab-cyber/HackGpt)
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║  🎯 Recognized by leading cybersecurity publications      ║
+║     for groundbreaking AI security innovations            ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -94,14 +109,13 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 
 <div align="center">
 
-<a href="https://github.com/yashab-cyber/HackGpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=HackGpt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="HackGPT Repo" />
-</a>
+### [🔗 View HackGPT Enterprise Repository](https://github.com/yashab-cyber/HackGpt)
 
 [![GitHub stars](https://img.shields.io/github/stars/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/HackGpt)
 [![GitHub forks](https://img.shields.io/github/forks/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/HackGpt)
 [![GitHub watchers](https://img.shields.io/github/watchers/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=green)](https://github.com/yashab-cyber/HackGpt)
 [![License](https://img.shields.io/github/license/yashab-cyber/HackGpt?style=for-the-badge&color=red)](https://github.com/yashab-cyber/HackGpt)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=orange)](https://github.com/yashab-cyber/HackGpt)
 
 </div>
 
@@ -110,11 +124,7 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 
 <div align="center">
 
-### 😈 Lucifer - Advanced Security Framework
-
-<a href="https://github.com/yashab-cyber/lucifer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=lucifer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff" alt="Lucifer" />
-</a>
+### [😈 Lucifer - Advanced Security Framework](https://github.com/yashab-cyber/lucifer)
 
 [![Stars](https://img.shields.io/github/stars/yashab-cyber/lucifer?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/lucifer)
 [![Forks](https://img.shields.io/github/forks/yashab-cyber/lucifer?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/lucifer)
@@ -139,10 +149,7 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 <tr>
 <td width="50%">
 
-### 🔍 Nmap AI
-<a href="https://github.com/yashab-cyber/nmap-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=nmap-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Nmap AI" />
-</a>
+### [🔍 Nmap AI](https://github.com/yashab-cyber/nmap-ai)
 
 [![Stars](https://img.shields.io/github/stars/yashab-cyber/nmap-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/nmap-ai)
 [![Forks](https://img.shields.io/github/forks/yashab-cyber/nmap-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/nmap-ai)
@@ -150,10 +157,7 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 </td>
 <td width="50%">
 
-### 🌐 Hack The Web
-<a href="https://github.com/yashab-cyber/hacktheweb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=hacktheweb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Hack The Web" />
-</a>
+### [🌐 Hack The Web](https://github.com/yashab-cyber/hacktheweb)
 
 [![Stars](https://img.shields.io/github/stars/yashab-cyber/hacktheweb?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/hacktheweb)
 [![Forks](https://img.shields.io/github/forks/yashab-cyber/hacktheweb?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/hacktheweb)
@@ -163,10 +167,7 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 <tr>
 <td width="50%">
 
-### 🐧 KaliGpt
-<a href="https://github.com/yashab-cyber/KaliGpt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=KaliGpt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="KaliGpt" />
-</a>
+### [🐧 KaliGpt](https://github.com/yashab-cyber/KaliGpt)
 
 [![Stars](https://img.shields.io/github/stars/yashab-cyber/KaliGpt?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/KaliGpt)
 [![Forks](https://img.shields.io/github/forks/yashab-cyber/KaliGpt?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/KaliGpt)
@@ -174,10 +175,7 @@ HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration 
 </td>
 <td width="50%">
 
-###  Metasploit AI
-<a href="https://github.com/yashab-cyber/metasploit-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=metasploit-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Metasploit AI" />
-</a>
+### [💥 Metasploit AI](https://github.com/yashab-cyber/metasploit-ai)
 
 [![Stars](https://img.shields.io/github/stars/yashab-cyber/metasploit-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/metasploit-ai)
 [![Forks](https://img.shields.io/github/forks/yashab-cyber/metasploit-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/metasploit-ai)
