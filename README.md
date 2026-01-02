@@ -1,242 +1,186 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASHAB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Expert%20|%20AI%20Researcher%20|%20CEO%20of%20AcquireX&descAlignY=51&descAlign=50" alt="Header" />
+</div>
 
-# Hi there! 👋 I'm 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Yashab+Alam;Cybersecurity+Expert;AI+Researcher;ZehraSec+CEO;Ethical+Hacker" alt="Typing SVG" />
-
-![Yashab Alam Banner](https://img.shields.io/badge/Cybersecurity_Expert-Ethical_Hacker-00ff41?style=for-the-badge&logo=shield&logoColor=white)
-![AI Researcher](https://img.shields.io/badge/AI_Researcher-ML_Engineer-blue?style=for-the-badge&logo=robot&logoColor=white)
-![Entrepreneur](https://img.shields.io/badge/Entrepreneur-ZehraSec_CEO-red?style=for-the-badge&logo=rocket&logoColor=white)
-
-**🛡️ Founder & CEO of [ZehraSec](https://www.zehrasec.com) | AI-Powered Cybersecurity Innovator 🤖**
-
-[![Website](https://img.shields.io/badge/🌐_Portfolio-yashabalam.me-green?style=flat-square)](https://yashabalam.me)
-[![ZehraSec](https://img.shields.io/badge/🏢_Company-zehrasec.com-blue?style=flat-square)](https://www.zehrasec.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-yashabalam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yashab-alam)
-[![GitHub](https://img.shields.io/badge/📊_Followers-Follow_Me-181717?style=flat-square&logo=github)](https://github.com/yashab-cyber)
+<div align="center">
+  
+```ascii
+  ╔═══╗─────────╔╗────────────────╔═══╗╔══╗
+  ║╔═╗║─────────║║────────────────║╔═╗║╚╣╠╝
+  ║║─╚╬╗─╔╦══╦══╣║╔══╦══╦══╦╗─╔╦═╝║─║║─║║
+  ║║─╔╣║─║║╔╗║║═╣║║══╣╔═╣║═╣║─║║╔╗║─║║─║║
+  ║╚═╝║╚═╝║╚╝║║═╣╚╣══║╚═╣║═╣╚═╝║║║║╚═╝╠╗║╠╗
+  ╚═══╩═╗╔╩══╩══╩═╩══╩══╩══╩═╗╔╩╝╚╩═══╝╚═╝╚╝
+  ─────╔═╝║──────────────────╔═╝║
+  ─────╚══╝──────────────────╚══╝
+```
 
 </div>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🛡️+Cybersecurity+Expert+%7C+🤖+AI+Researcher;💼+Founder+%26+CEO+of+AcquireX;🔐+Revolutionizing+Digital+Security+with+Artificial+Intelligence" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Expert-00ff00?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Researcher-ff0080?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEO-AcquireX-0080ff?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
 ## 🚀 About Me
 
-<div align="center">
+I'm a cybersecurity expert, AI researcher, and entrepreneur passionate about revolutionizing digital security through artificial intelligence. As the **Founder and CEO of AcquireX**, I specialize in developing cutting-edge cybersecurity solutions that combine traditional security practices with modern AI capabilities.
 
-### 💫 *Revolutionizing Digital Security Through Artificial Intelligence* 💫
+### What I Do:
+- 🛡️ Building next-generation AI-powered cybersecurity solutions at **AcquireX**
+- 🤖 Researching and implementing AI/ML models for threat detection and prevention
+- 🔐 Developing innovative approaches to digital security challenges
+- 💡 Leading a team dedicated to making the digital world safer
+- 🌐 Contributing to the advancement of AI-driven security technologies
 
-</div>
-
-I'm a **cybersecurity expert**, **AI researcher**, and **entrepreneur** passionate about revolutionizing digital security through artificial intelligence. As the founder and CEO of **ZehraSec**, I specialize in developing cutting-edge cybersecurity solutions that combine traditional security practices with modern AI capabilities.
-
-<div align="center">
+### Areas of Expertise:
+- 💬 Cybersecurity architecture and penetration testing
+- 🧠 Artificial Intelligence and Machine Learning for security
+- 🚀 Entrepreneurship and tech leadership
+- 🔬 Security research and vulnerability analysis
 
 ---
 
-## ✨ Professional Profile ✨
+## 🌟 Featured Project: HackGPT Enterprise
+
+<div align="center">
+
+[![HackGPT](https://img.shields.io/badge/🔥_HackGPT_Enterprise-Featured_Project-00ff00?style=for-the-badge&logo=github)](https://github.com/yashab-cyber/HackGpt)
+
+**Production-Ready AI-Powered Penetration Testing Platform**
+
+```ascii
+╔═════════════════════════════════════════════════════════════════╗
+║   🤖 Cloud-Native | Enterprise-Grade | AI-Driven Security 🔐    ║
+║        Advanced Penetration Testing & Vulnerability Research     ║
+╚═════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+HackGPT Enterprise is a **production-ready, cloud-native AI-powered penetration testing platform** designed for enterprise security teams. It combines advanced AI, machine learning, microservices architecture, and comprehensive security frameworks to deliver professional-grade cybersecurity assessments.
+
+### 🎯 Core Capabilities
 
 <table>
 <tr>
-<td align="center" width="60%" style="padding: 20px;">
+<td width="50%">
 
-### 🌟 *Current Journey*
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🎯 Current Role**  
-*Cybersecurity Expert & AI Researcher*
-
-**🔬 Mission**  
-*Pioneering AI-Security Integration*
-
-**🛡️ Impact**  
-*Leading Industry Innovation*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🏢 Company Leadership**  
-*ZehraSec (Founder & CEO)*
-
-**🚀 Vision**  
-*Building the Future of Security*
-
-**👥 Team**  
-*Leading Expert Professionals*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**📍 Base of Operations**  
-*India 🇮🇳*
-
-**🌏 Reach**  
-*Global Impact & Remote Collaboration*
-
-**🤝 Style**  
-*Hybrid Innovation Approach*
-
-</div>
+#### 🤖 Advanced AI Engine
+- **Multi-Model Support**: OpenAI GPT-4, Local LLM (Ollama), TensorFlow, PyTorch
+- **Machine Learning**: Pattern recognition, anomaly detection, behavioral analysis
+- **Zero-Day Detection**: ML-powered vulnerability discovery and correlation
+- **Risk Intelligence**: CVSS scoring, impact assessment, exploit prioritization
+- **Automated Reporting**: Executive summaries, technical details, compliance mapping
 
 </td>
-<td align="center" width="40%" style="padding: 20px;">
+<td width="50%">
 
-### 🎯 *Current Mission*
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🚀 Focus Area**  
-*Building AI-integrated security solutions*
-
-**🎯 Vision**  
-*Democratizing Advanced Cybersecurity*
-
-**💡 Innovation**  
-*AI + Security = Future*
-
-</div>
-
-### 🛡️ *Core Specializations*
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🤖 AI-Powered Cybersecurity**  
-*Machine Learning Security & Threat Detection*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🔒 Ethical Hacking & VAPT**  
-*Penetration Testing & Security Auditing*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🌐 Network Security**  
-*Infrastructure Protection & Analysis*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**🧠 Machine Learning**  
-*Neural Networks & Deep Learning*
-
-</div>
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px 0; border: 2px solid #00FF41;">
-
-**💻 Full-Stack Development**  
-*Frontend, Backend & Database Systems*
-
-</div>
+#### 🔐 Enterprise Features
+- **Cloud-Native Architecture**: Scalable microservices deployment
+- **Comprehensive Testing**: Network, web app, API security assessments
+- **Compliance Ready**: OWASP, NIST, PCI-DSS, ISO 27001 aligned
+- **Real-Time Monitoring**: Live threat detection and incident response
+- **Team Collaboration**: Multi-user workflows, role-based access
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/yashab-cyber/HackGpt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=HackGpt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff" alt="HackGPT Repo" />
+</a>
+
+[![GitHub stars](https://img.shields.io/github/stars/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/HackGpt)
+[![GitHub forks](https://img.shields.io/github/forks/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/HackGpt)
+[![GitHub watchers](https://img.shields.io/github/watchers/yashab-cyber/HackGpt?style=for-the-badge&logo=github&color=green)](https://github.com/yashab-cyber/HackGpt)
+[![License](https://img.shields.io/github/license/yashab-cyber/HackGpt?style=for-the-badge&color=red)](https://github.com/yashab-cyber/HackGpt)
+
+</div>
+
+---
+## 🚀 Latest Release
+
+<div align="center">
+
+### 😈 Lucifer - Advanced Security Framework
+
+<a href="https://github.com/yashab-cyber/lucifer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=lucifer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=ffffff" alt="Lucifer" />
+</a>
+
+[![Stars](https://img.shields.io/github/stars/yashab-cyber/lucifer?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/lucifer)
+[![Forks](https://img.shields.io/github/forks/yashab-cyber/lucifer?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/lucifer)
+[![Release](https://img.shields.io/github/v/release/yashab-cyber/lucifer?style=for-the-badge&logo=github&color=red)](https://github.com/yashab-cyber/lucifer/releases)
+[![License](https://img.shields.io/github/license/yashab-cyber/lucifer?style=for-the-badge&color=green)](https://github.com/yashab-cyber/lucifer)
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║     🔥 Next-Gen Security Framework | Latest Release 🔥    ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 ---
 
-### 🎨 *Professional Journey*
+## 💼 Other Popular Projects
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
+### 🔍 Nmap AI
+<a href="https://github.com/yashab-cyber/nmap-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=nmap-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Nmap AI" />
+</a>
 
-**🎓 Education**  
-*MBA & BCA*  
-*Strong Foundation*
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
-
-**🚀 Research**  
-*AI Innovation*  
-*Published Papers*
-
-</div>
+[![Stars](https://img.shields.io/github/stars/yashab-cyber/nmap-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/nmap-ai)
+[![Forks](https://img.shields.io/github/forks/yashab-cyber/nmap-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/nmap-ai)
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
+### 🌐 Hack The Web
+<a href="https://github.com/yashab-cyber/hacktheweb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=hacktheweb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Hack The Web" />
+</a>
 
-**🏢 Entrepreneurship**  
-*ZehraSec CEO*  
-*Industry Leadership*
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
-
-**🌟 Innovation**  
-*Future Security*  
-*Global Impact*
-
-</div>
+[![Stars](https://img.shields.io/github/stars/yashab-cyber/hacktheweb?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/hacktheweb)
+[![Forks](https://img.shields.io/github/forks/yashab-cyber/hacktheweb?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/hacktheweb)
 
 </td>
 </tr>
-</table>
-
-</div>
-
-### 💎 *Core Values & Principles*
-
-<table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
+### 🐧 KaliGpt
+<a href="https://github.com/yashab-cyber/KaliGpt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=KaliGpt&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="KaliGpt" />
+</a>
 
-**🔬 Innovation**  
-*Pushing boundaries in AI-security integration*
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
-
-**�️ Security First**  
-*Protecting digital infrastructure globally*
-
-</div>
+[![Stars](https://img.shields.io/github/stars/yashab-cyber/KaliGpt?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/KaliGpt)
+[![Forks](https://img.shields.io/github/forks/yashab-cyber/KaliGpt?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/KaliGpt)
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
+###  Metasploit AI
+<a href="https://github.com/yashab-cyber/metasploit-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashab-cyber&repo=metasploit-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="Metasploit AI" />
+</a>
 
-**🤝 Community**  
-*Open-source contribution & knowledge sharing*
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: #000000; padding: 15px; border-radius: 10px; color: #00FF41; font-weight: bold; margin: 10px; border: 2px solid #00FF41;">
-
-**🎓 Education**  
-*Empowering next-gen security professionals*
-
-</div>
+[![Stars](https://img.shields.io/github/stars/yashab-cyber/metasploit-ai?style=for-the-badge&logo=github&color=yellow)](https://github.com/yashab-cyber/metasploit-ai)
+[![Forks](https://img.shields.io/github/forks/yashab-cyber/metasploit-ai?style=for-the-badge&logo=github&color=blue)](https://github.com/yashab-cyber/metasploit-ai)
 
 </td>
 </tr>
@@ -246,549 +190,232 @@ I'm a **cybersecurity expert**, **AI researcher**, and **entrepreneur** passiona
 
 ---
 
----
-
-## 🛡️ Featured Projects
-
-### 🤖 [NMAP-AI](https://github.com/yashab-cyber/nmap-ai) - AI-Powered Network Scanning
-![Stars](https://img.shields.io/github/stars/yashab-cyber/nmap-ai?style=social)
-![Language](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-
-Revolutionary network scanning tool that combines Nmap's power with artificial intelligence for intelligent automation and script generation.
-
-**Key Features:**
-- 🧠 AI-powered script generation and vulnerability detection
-- 🖥️ Modern GUI with real-time visualization
-- 🔄 Multi-threaded scanning with adaptive strategies
-- 📊 Comprehensive reporting in multiple formats
-
-### 🧠 [LEWIS](https://github.com/yashab-cyber/lewis) - Linux Environment Working Intelligence System
-![Stars](https://img.shields.io/github/stars/yashab-cyber/lewis?style=social)
-![Platform](https://img.shields.io/badge/Platform-Linux-orange?logo=linux)
-
-Next-generation AI-powered cybersecurity intelligence platform designed for professional security analysts and ethical hackers.
-
-**Key Features:**
-- 🎤 Natural language processing for command interpretation
-- 🛡️ 100+ integrated security tools
-- 📊 Real-time analytics and dashboards
-- 🔐 Enterprise-grade security and compliance
-
-### 🔄 [CyberRotate Pro](https://github.com/yashab-cyber/cyberrotate-pro) - Enterprise IP Rotation Suite
-![Version](https://img.shields.io/badge/Version-2.1.0-green)
-![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
-
-Enterprise-grade IP rotation and anonymity suite designed for authorized security testing and penetration testing.
-
-**Key Features:**
-- 🌐 Multi-protocol support (HTTP/HTTPS/SOCKS/Tor/VPN)
-- 📊 Advanced analytics dashboard
-- 🔒 Comprehensive leak protection
-- ⚖️ Built-in ethical guidelines and compliance
-
-### 🤖 [NEO](https://github.com/yashab-cyber/neo) - Neural Executive Operator
-![AI](https://img.shields.io/badge/AI-Neural_Networks-purple?logo=brain)
-
-Advanced AI assistant combining deep learning, neuro learning, and recursive learning for complete digital transformation.
-
-**Key Features:**
-- 🧠 Advanced learning systems with smart problem solving
-- 🖥️ Complete PC control and automation
-- 🔒 Cybersecurity expertise and threat detection
-- 💻 Comprehensive coding and development support
-
----
-
-## 🏢 ZehraSec - Elite Cybersecurity Solutions
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-[![ZehraSec](https://img.shields.io/badge/🌐_ZehraSec-Visit_Website-blue?style=for-the-badge)](https://www.zehrasec.com)
-[![IECA](https://img.shields.io/badge/🛡️_IECA-Indian_Error_Cyber_Army-red?style=for-the-badge)](https://ieca.zehrasec.com)
+### 🔐 Cybersecurity Tools & Frameworks
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-EE2C2C?style=for-the-badge&logo=snort&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-**ZehraSec** is my cybersecurity company specializing in:
+## 📊 GitHub Analytics
 
-- 🛡️ **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🤖 **AI-Integrated Security Solutions**
-- 🎓 **Cybersecurity Training & Certification**
-- 🔍 **Security Audits & Compliance**
-- 💼 **Enterprise Security Consulting**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashab-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashab-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" alt="Top Languages" height="180" />
+</div>
 
-### 🌟 Company Achievements
-- 💼 **100+ Security Audits** completed successfully
-- 🏢 **50+ Companies** secured and protected
-- 🎓 **500+ Students** trained in cybersecurity
-- 🏆 **Industry Recognition** for innovative AI solutions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashab-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashab-cyber&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff" alt="Contribution Graph" width="48%" />
+</div>
+Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashab-cyber&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+  
+| 🔐 Security | 🤖 AI/ML | 💼 Leadership |
+|:---:|:---:|:---:|
+| Threat Intelligence | Neural Networks | Strategic Planning |
+| Penetration Testing | Deep Learning | Team Building |
+| Security Architecture | NLP & Computer Vision | Product Development |
+| Incident Response | Predictive Analytics | Investor Relations |
+
+</div>
+
+## 🌐 AcquireX: AI-Powered Security Solutions
+
+<div align="center">
+  
+```diff
++ Combining traditional cybersecurity with cutting-edge AI
++ Automated threat detection and response systems
++ Machine learning-powered vulnerability assessment
++ Next-generation security orchestration
++ Real-time intelligent security monitoring
+```
+
+</div>
 
 ---
 
-## 💻 Technical Expertise
+## 💖 Support My Work
 
 <div align="center">
 
-### 🛡️ Cybersecurity Expertise
+If you find my projects helpful and want to support continued development of cutting-edge cybersecurity and AI tools, consider making a donation. Your support helps me dedicate more time to open-source security research and tool development.
 
-<table>
+### 🎯 Donation Tiers & Perks
+
+</div>
+
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="25%" align="center">
 
-**🔍 Penetration Testing**  
-![Penetration Testing](https://img.shields.io/badge/Expert_Level-95%25-brightgreen?style=for-the-badge&logo=hackaday)  
-Advanced VAPT methodologies, automated testing frameworks
+### 🥉 Bronze Tier
+**$100 - $500**
 
-**🔒 Vulnerability Analysis**  
-![Vulnerability Analysis](https://img.shields.io/badge/Expert_Level-98%25-brightgreen?style=for-the-badge&logo=bug)  
-Zero-day discovery, CVE research, exploit development
-
-**🌐 Network Security**  
-![Network Security](https://img.shields.io/badge/Expert_Level-92%25-brightgreen?style=for-the-badge&logo=network-wired)  
-Firewall configuration, IDS/IPS, network forensics
+✅ Name in project README  
+✅ Priority bug reports  
+✅ Early access to updates  
+✅ Discord supporter role  
 
 </td>
-<td align="center" width="50%">
+<td width="25%" align="center">
 
-**🚨 Incident Response**  
-![Incident Response](https://img.shields.io/badge/Advanced-85%25-green?style=for-the-badge&logo=fire)  
-Digital forensics, malware containment, recovery planning
+### 🥈 Silver Tier
+**$500 - $1,000**
 
-**🦠 Malware Analysis**  
-![Malware Analysis](https://img.shields.io/badge/Advanced-80%25-green?style=for-the-badge&logo=virus)  
-Reverse engineering, behavioral analysis, sandbox testing
+✅ All Bronze perks  
+✅ Feature request priority  
+✅ Private Discord channel  
+✅ Monthly progress updates  
+✅ Logo in project page  
 
-**🛡️ Security Auditing**  
-![Security Auditing](https://img.shields.io/badge/Expert_Level-96%25-brightgreen?style=for-the-badge&logo=search)  
-Compliance frameworks, risk assessment, security policies
+</td>
+<td width="25%" align="center">
+
+### 🥇 Gold Tier
+**$1,000 - $5,000**
+
+✅ All Silver perks  
+✅ 1-on-1 consultation (2hrs)  
+✅ Custom feature development  
+✅ Beta access to new tools  
+✅ Co-development credits  
+
+</td>
+<td width="25%" align="center">
+
+### 💎 Diamond Tier
+**$5,000+**
+
+✅ All Gold perks  
+✅ Dedicated support line  
+✅ Enterprise consulting  
+✅ Custom tool development  
+✅ Partnership opportunities  
+✅ Lifetime updates  
 
 </td>
 </tr>
 </table>
 
-### 🤖 AI & Machine Learning Mastery
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🧠 Deep Learning**  
-![Deep Learning](https://img.shields.io/badge/Expert_Level-90%25-blue?style=for-the-badge&logo=tensorflow)  
-Neural networks, computer vision, NLP applications
-
-**💬 NLP Processing**  
-![NLP Processing](https://img.shields.io/badge/Advanced-85%25-blue?style=for-the-badge&logo=openai)  
-Text analysis, sentiment analysis, chatbot development
-
-**👁️ Computer Vision**  
-![Computer Vision](https://img.shields.io/badge/Intermediate-75%25-orange?style=for-the-badge&logo=opencv)  
-Image recognition, object detection, facial recognition
-
-</td>
-<td align="center" width="50%">
-
-**🔗 Neural Networks**  
-![Neural Networks](https://img.shields.io/badge/Expert_Level-88%25-blue?style=for-the-badge&logo=brain)  
-CNN, RNN, transformer architectures, custom models
-
-**⚙️ MLOps**  
-![MLOps](https://img.shields.io/badge/Advanced-80%25-blue?style=for-the-badge&logo=docker)  
-Model deployment, CI/CD pipelines, monitoring systems
-
-**📊 Data Science**  
-![Data Science](https://img.shields.io/badge/Advanced-87%25-blue?style=for-the-badge&logo=jupyter)  
-Statistical analysis, data visualization, predictive modeling
-
-</td>
-</tr>
-</table>
-
-### 💻 Programming & Development Stack
-
 <div align="center">
 
-**🐍 Backend Development**  
-![Python](https://img.shields.io/badge/Python-95%25-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-75%25-ed8b00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-65%25-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 📧 How to Support
 
-**🌐 Frontend & Full-Stack**  
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-80%25-61dafb?style=for-the-badge&logo=react&logoColor=black)
+**For donations and sponsorship inquiries, contact:**
 
-**🗄️ Database & DevOps**  
-![SQL](https://img.shields.io/badge/SQL-80%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-78%25-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-82%25-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+[![Email](https://img.shields.io/badge/Donations-yashabalam9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashabalam9@gmail.com?subject=Donation%20Inquiry)
 
-**🔧 Tools & Frameworks**  
-![Git](https://img.shields.io/badge/Git-90%25-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-93%25-fcc624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-70%25-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</div>
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║  Every contribution helps build better security tools!   ║
+║           Thank you for your support! 🙏                 ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Connect with Me
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashab-cyber&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashab-cyber&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yashab-cyber&theme=radical&hide_border=true&card_width=500)
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-![Achievements](https://img.shields.io/badge/🏆_Achievements-Excellence_in_Cybersecurity-gold?style=for-the-badge)
-![Recognition](https://img.shields.io/badge/🌟_Recognition-Industry_Leader-blue?style=for-the-badge)
-![Innovation](https://img.shields.io/badge/💡_Innovation-AI_Pioneer-purple?style=for-the-badge)
-
-</div>
-
-### 🎓 Education & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🎓 Academic Excellence**
-
-![MBA](https://img.shields.io/badge/MBA-HBTU_Kanpur-blue?style=for-the-badge&logo=graduation-cap)  
-*Master of Business Administration*  
-**Specialization:** Strategic Management & Leadership
-
-![BCA](https://img.shields.io/badge/BCA-Computer_Applications-green?style=for-the-badge&logo=computer)  
-*Bachelor of Computer Applications*  
-**Focus:** Software Development & Systems
-
-</td>
-<td align="center" width="50%">
-
-**🛡️ Professional Certifications**
-
-![Cybersecurity](https://img.shields.io/badge/Multiple-Cybersecurity_Certs-red?style=for-the-badge&logo=shield)  
-*Advanced Security Certifications*  
-**Areas:** Ethical Hacking, VAPT, Security Auditing
-
-![AI Research](https://img.shields.io/badge/AI/ML-Research_Publications-purple?style=for-the-badge&logo=brain)  
-*Published Research Papers*  
-**Focus:** AI in Cybersecurity Applications
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🏅 Professional Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-**👑 Leadership**
-
-![CEO Badge](https://img.shields.io/badge/Founder_&_CEO-ZehraSec-red?style=for-the-badge&logo=crown)
-
-**Company Founded:** 2020+  
-**Employees:** 10+ Team Members  
-**Vision:** AI-Integrated Security
-
-</td>
-<td align="center" width="33%">
-
-**🔬 Research Excellence**
-
-![Research Badge](https://img.shields.io/badge/AI_Security-Researcher-blue?style=for-the-badge&logo=microscope)
-
-**Publications:** 5+ Research Papers  
-**Citations:** 100+ Academic References  
-**Impact:** Industry Recognition
-
-</td>
-<td align="center" width="33%">
-
-**🎯 Professional Impact**
-
-![Impact Badge](https://img.shields.io/badge/Security_Audits-100+-green?style=for-the-badge&logo=target)
-
-**Audits Completed:** 100+  
-**Companies Secured:** 50+  
-**Success Rate:** 98%
-
-</td>
-</tr>
-</table>
-
-### 🌟 Key Achievements
-
-![International](https://img.shields.io/badge/🌍_International_Recognition-Cybersecurity_Community-gold?style=flat-square)
-![Open Source](https://img.shields.io/badge/📚_Open_Source_Contributor-20+_Projects-orange?style=flat-square)
-![Innovation](https://img.shields.io/badge/💡_Innovation_Leader-AI_Security_Solutions-purple?style=flat-square)
-![Education](https://img.shields.io/badge/🎓_Education_Impact-500+_Students_Trained-blue?style=flat-square)
-
-</div>
-
-### 📝 Research & Publications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**📄 Featured Research Papers**
-
-🧠 **LEWIS Research Paper**  
-*Advanced AI in Cybersecurity*  
-![Research](https://img.shields.io/badge/Status-Published-success?style=flat-square)
-
-📊 **AI-Powered Network Analysis**  
-*Methodologies & Applications*  
-![Research](https://img.shields.io/badge/Status-Peer_Reviewed-success?style=flat-square)
-
-</td>
-<td align="center" width="50%">
-
-**� Research Areas**
-
-�🔒 **Vulnerability Detection**  
-*Using Machine Learning Algorithms*  
-![Research](https://img.shields.io/badge/Impact-High-red?style=flat-square)
-
-🧠 **Neural Network Applications**  
-*In Security & Threat Detection*  
-![Research](https://img.shields.io/badge/Innovation-Breakthrough-purple?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-### 📊 Research Impact Metrics
-
-![Citations](https://img.shields.io/badge/Citations-100+-blue?style=for-the-badge&logo=bookmark)
-![Downloads](https://img.shields.io/badge/Downloads-1000+-green?style=for-the-badge&logo=download)
-![Impact Factor](https://img.shields.io/badge/Impact_Factor-High-red?style=for-the-badge&logo=chart-line)
-
-</div>
-
----
-
-### 🎖️ Awards & Recognition
-
-<div align="center">
-
-| 🏆 Award | 🏢 Organization | 📅 Year | 🌟 Category |
-|----------|----------------|----------|-------------|
-| **Best AI Innovation** | Tech Excellence Awards | 2024 | Cybersecurity AI |
-| **Rising Entrepreneur** | Startup India | 2023 | Technology Startup |
-| **Research Excellence** | IEEE Security | 2023 | Academic Research |
-| **Community Impact** | Open Source India | 2022 | Open Source Contribution |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-### 👨‍💻 Personal Links
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashab-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashab-alam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashabalam707@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yashabalam.me)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashab-cyber)
-
-### 🏢 ZehraSec Company
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://www.zehrasec.com)
-[![Company LinkedIn](https://img.shields.io/badge/Company_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/zehrasec)
-[![IECA Platform](https://img.shields.io/badge/IECA_Platform-red?style=for-the-badge&logo=shield&logoColor=white)](https://ieca.zehrasec.com)
-
-### 📱 Social Media
-[![Personal Instagram](https://img.shields.io/badge/Personal_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashab.alam)
-[![ZehraSec Instagram](https://img.shields.io/badge/ZehraSec_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_zehrasec?igsh=bXM0cWl1ejdoNHM4)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zehrasec?t=Tp9LOesZw2d2yTZLVo0_GA&s=08)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575580721849)
-
-### 💬 Business Communication
-[![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
-[![Business Email](https://img.shields.io/badge/Business_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashabalam707@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yashab.alam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashabalam9@gmail.com)
 
 </div>
 
----
-
-## 💰 Support My Work
-
-I'm dedicated to advancing cybersecurity through open-source projects and AI research. Your support helps me continue developing innovative security solutions for the community.
+## 💡 Profile Statistics
 
 <div align="center">
-
-### 🌟 Preferred Support Methods
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Support_Me-ff69b4?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/yashab-cyber)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yashab07)
-[![Crypto Donations](https://img.shields.io/badge/💰_Crypto_Donations-Support_Projects-brightgreen?style=for-the-badge)](DONATE.md)
-
+  <img src="https://komarev.com/ghpvc/?username=yashab-cyber&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yashab-cyber?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/yashab-cyber?label=Total+Stars&style=for-the-badge&color=yellow&logo=github" alt="Total Stars" />
 </div>
-
-### 💱 Cryptocurrency Donations (Recommended)
-
-**🟡 Solana (SOL) - ACTIVE & VERIFIED**
-```
-5pEwP9JN8tRCXL5Vc9gQrxRyHHyn7J6P2DCC8cSQKDKT
-```
-
-**₿ Bitcoin (BTC)**
-```
-bc1qmkptg6wqn9sjlx6wf7dk0px0yq4ynr4ukj2x8c
-```
-
-**💎 Other Cryptocurrencies Available:**
-- **Ethereum (ETH)** & ERC-20 Tokens
-- **Litecoin (LTC)**
-- **Dogecoin (DOGE)**
-
-> 📧 **Contact [yashabalam707@gmail.com](mailto:yashabalam707@gmail.com) for current wallet addresses**
-
-### 💰 Donation Tiers & Benefits
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<div style="background: linear-gradient(135deg, #CD7F32 0%, #A0522D 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px; box-shadow: 0 8px 16px rgba(205, 127, 50, 0.3); transform: scale(1.02); transition: all 0.3s ease;">
-
-### 🥉 **BRONZE**
-**$5 - $24**
-
-✨ **Benefits:**
-- 🏅 Supporter Badge
-- ⚡ Early Access
-- 📧 Monthly Updates
-- 🎯 Community Access
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: linear-gradient(135deg, #C0C0C0 0%, #808080 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px; box-shadow: 0 8px 16px rgba(192, 192, 192, 0.3); transform: scale(1.05); transition: all 0.3s ease;">
-
-### 🥈 **SILVER**
-**$25 - $99**
-
-🚀 **Benefits:**
-- 🎯 Priority Support
-- 🔧 Custom Integration
-- 👥 Direct Team Access
-- 📱 Beta Features
-- 🏆 Silver Badge
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-
-<div style="background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); padding: 20px; border-radius: 15px; color: #000; margin: 10px; box-shadow: 0 8px 16px rgba(255, 215, 0, 0.4); transform: scale(1.08); transition: all 0.3s ease;">
-
-### 🥇 **GOLD**
-**$100 - $499**
-
-💎 **Premium Benefits:**
-- ⭐ Feature Priority
-- 🎨 Custom Branding
-- 👨‍💼 1-on-1 Consultations
-- 🚀 Advanced Features
-- � Analytics Access
-- 🏅 Gold Badge
-
-</div>
-
-</td>
-<td align="center" width="25%">
-
-<div style="background: linear-gradient(135deg, #E5E4E2 0%, #B87333 100%); padding: 20px; border-radius: 15px; color: #000; margin: 10px; box-shadow: 0 12px 24px rgba(229, 228, 226, 0.5); transform: scale(1.1); transition: all 0.3s ease; border: 3px solid #FFD700;">
-
-### 💎 **PLATINUM**
-**$500+**
-
-🌟 **Elite Benefits:**
-- 🔥 Custom Development
-- 🏢 Enterprise Support
-- 🤝 Partnership Opportunities
-- 🎯 Dedicated Manager
-- 🚀 White-label Solutions
-- 💎 Platinum Badge
-- 🎪 VIP Events Access
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div style="background: linear-gradient(45deg, #00FF41 0%, #008F11 100%); padding: 15px; border-radius: 10px; color: #000; margin: 20px auto; max-width: 600px; font-weight: bold; box-shadow: 0 4px 8px rgba(0, 255, 65, 0.3);">
-
-💡 **Special Offer:** First 100 donors get exclusive Matrix-themed NFT collectibles! 🎁
-
-</div>
-
-</div>
-
-### 🎯 Current Funding Goals
-- 🤖 **AI Script Generation** - $3,000 (Advanced ML models for NMAP-AI)
-- 🖥️ **Professional GUI Interface** - $5,000 (Cross-platform application)
-- 🚀 **Enterprise Automation Suite** - $10,000 (Full enterprise security solution)
-
-### 🤝 Alternative Support Methods
-- ⭐ **Star my repositories** on GitHub
-- 🔄 **Share projects** on social media
-- 🐛 **Report issues** and contribute code
-- 📚 **Write tutorials** and documentation
-- 🎓 **Join our training programs** at ZehraSec
-
-> 💡 **All donations directly fund open-source development, AI research, and cybersecurity education initiatives.**
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
 <div align="center">
 
-### 🌟 "Securing the digital world, one AI model at a time" 🌟
+### 💭 Security & AI Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashab-cyber&color=blueviolet&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/yashab-cyber?style=for-the-badge&color=blue)](https://github.com/yashab-cyber?tab=followers)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product%2C%20but%20a%20process%20-%20and%20AI%20is%20the%20catalyst%20for%20its%20evolution.&author=Yashab" alt="Quote" />
 
-**Made with ❤️ by Yashab Alam | Founder of ZehraSec**
+</div>
 
-*"Innovation in cybersecurity through artificial intelligence"*
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "In the age of AI, the best defense is intelligent offense" ║
+║               - Building the future of cybersecurity         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### ⭐️ From [yashab-cyber](https://github.com/yashab-cyber) | CEO @ AcquireX
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashab-cyber&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  
+  ### ⭐️ From [yashab-cyber](https://github.com/yashab-cyber)
+  
+  **"The only way to do great work is to love what you do."**
+  
 </div>
