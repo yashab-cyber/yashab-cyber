@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASHAB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Expert%20|%20AI%20Researcher%20|%20Open%20Source%20Builder&descAlignY=51&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YASHAB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Expert%20%7C%20AI%20Researcher%20%7C%20Open%20Source%20Builder&descAlignY=51&descAlign=50&descSize=20" alt="Header" />
 </div>
 
 <p align="center">
@@ -50,12 +50,13 @@ Cybersecurity expert, AI researcher, and open-source enthusiast passionate about
 
 | Project | Stars | Forks |
 |:--------|:-----:|:-----:|
-| [🤖 **HackGPT** — AI-Powered Penetration Testing](https://github.com/yashab-cyber/HackGpt) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/HackGpt?style=flat-square&color=yellow)](https://github.com/yashab-cyber/HackGpt) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/HackGpt?style=flat-square&color=blue)](https://github.com/yashab-cyber/HackGpt) |
+| [🤖 **HackGPT** — AI-Powered Penetration Testing](https://github.com/yashab-cyber/HackGpt) 🔥 `Viral` [![News](https://img.shields.io/badge/📰_Featured_in-News_Journals-ff6b6b?style=flat-square)](https://github.com/yashab-cyber/HackGpt) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/HackGpt?style=flat-square&color=yellow)](https://github.com/yashab-cyber/HackGpt) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/HackGpt?style=flat-square&color=blue)](https://github.com/yashab-cyber/HackGpt) |
 | [😈 **Lucifer** — Advanced Security Framework](https://github.com/yashab-cyber/lucifer) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/lucifer?style=flat-square&color=yellow)](https://github.com/yashab-cyber/lucifer) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/lucifer?style=flat-square&color=blue)](https://github.com/yashab-cyber/lucifer) |
 | [🔍 **Nmap AI** — AI-Enhanced Network Scanner](https://github.com/yashab-cyber/nmap-ai) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/nmap-ai?style=flat-square&color=yellow)](https://github.com/yashab-cyber/nmap-ai) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/nmap-ai?style=flat-square&color=blue)](https://github.com/yashab-cyber/nmap-ai) |
 | [🌐 **Hack The Web** — Web Security Toolkit](https://github.com/yashab-cyber/hacktheweb) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/hacktheweb?style=flat-square&color=yellow)](https://github.com/yashab-cyber/hacktheweb) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/hacktheweb?style=flat-square&color=blue)](https://github.com/yashab-cyber/hacktheweb) |
 | [🐧 **KaliGPT** — Kali Linux AI Assistant](https://github.com/yashab-cyber/KaliGpt) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/KaliGpt?style=flat-square&color=yellow)](https://github.com/yashab-cyber/KaliGpt) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/KaliGpt?style=flat-square&color=blue)](https://github.com/yashab-cyber/KaliGpt) |
 | [💥 **Metasploit AI** — AI-Powered Exploit Framework](https://github.com/yashab-cyber/metasploit-ai) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/metasploit-ai?style=flat-square&color=yellow)](https://github.com/yashab-cyber/metasploit-ai) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/metasploit-ai?style=flat-square&color=blue)](https://github.com/yashab-cyber/metasploit-ai) |
+| [🤖 **HackBot** — AI Chatbot for Hacking](https://github.com/yashab-cyber/HackBot) | [![Stars](https://img.shields.io/github/stars/yashab-cyber/HackBot?style=flat-square&color=yellow)](https://github.com/yashab-cyber/HackBot) | [![Forks](https://img.shields.io/github/forks/yashab-cyber/HackBot?style=flat-square&color=blue)](https://github.com/yashab-cyber/HackBot) |
 
 </div>
 
