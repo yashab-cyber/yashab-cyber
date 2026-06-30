@@ -16,11 +16,12 @@
 
 ## 🚀 About Me
 
-Cybersecurity expert, AI researcher, and open-source enthusiast passionate about building tools that make the digital world safer. I specialize in combining **AI/ML** with **offensive security** to create next-gen security solutions.
+Cybersecurity expert, AI/ML tool builder, and open-source enthusiast. I don't just apply AI to security — I **build AI/ML tools from the ground up** and create next-gen solutions across cybersecurity, Android, and Web3.
 
 - 🛡️ Building AI-powered cybersecurity tools & frameworks
-- 🤖 Researching AI/ML models for threat detection
-- 🔐 Developing innovative open-source security projects
+- 🤖 Developing standalone AI/ML tools & models
+- 🔐 Researching AI/ML for threat detection & vulnerability analysis
+- 📱 Creating open-source Android & Web3 projects
 - 🌐 Contributing to the advancement of AI-driven security
 
 ---
