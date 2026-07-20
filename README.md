@@ -124,8 +124,8 @@ Cybersecurity expert, AI/ML tool builder, and open-source enthusiast. I don't ju
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashab-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashab-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yashab-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashab-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
